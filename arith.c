@@ -7,6 +7,6 @@ int main(){
   b = m-n;
   c = m*n;
   d = m/n;
-  printf("%d %d %d %d\n",a,b,c,d);
+  printf("%lx %lx %lx %lx\n",a,b,c,d);
 
 }
